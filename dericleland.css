@@ -1,0 +1,70 @@
+
+#landing {
+  background-image: url("2B5FDB95F8.jpg");
+  height: 50em;
+  width: 100%;
+  text-align: center;
+
+}
+
+#name {
+  font-family:Verdana;
+  font-weight: lighter;
+  font-size: 7em;
+
+}
+
+#headertwo {
+  font-family:sans-serif;
+  font-weight: lighter;
+  font-size: 1.5em;
+
+}
+
+
+body {
+  background: black;
+  font-family:sans-serif;
+  font-weight: lighter;
+  color: white;
+
+}
+#bio {
+  padding-top: 1em;
+  padding-left: 2em;
+  float:left;
+  width: 60%;
+  font-size: 20px;
+
+}
+
+#title {
+  font-size: 5em;
+
+  text-align: center;
+}
+
+/*IMG.display  {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}*/
+
+/*#h3 {
+  text-align: center;
+  font-size: 3em
+}*/
+
+
+
+footer {
+  position:fixed;
+  bottom:0;
+  left:0;
+  background-color:black;
+  text-align: center;
+  width: 100%;
+  word-spacing: 7px;
+
+}
